@@ -1,0 +1,12 @@
+C:\Users\JOSSELIN C. ORTEGA\source\repos\ProyectoPEE\bin\Debug\ProyectoPEE.exe.config
+C:\Users\JOSSELIN C. ORTEGA\source\repos\ProyectoPEE\bin\Debug\ProyectoPEE.exe
+C:\Users\JOSSELIN C. ORTEGA\source\repos\ProyectoPEE\bin\Debug\ProyectoPEE.pdb
+C:\Users\JOSSELIN C. ORTEGA\source\repos\ProyectoPEE\obj\Debug\ProyectoPEE.csproj.AssemblyReference.cache
+C:\Users\JOSSELIN C. ORTEGA\source\repos\ProyectoPEE\obj\Debug\ProyectoPEE.csproj.SuggestedBindingRedirects.cache
+C:\Users\JOSSELIN C. ORTEGA\source\repos\ProyectoPEE\obj\Debug\ProyectoPEE.Form1.resources
+C:\Users\JOSSELIN C. ORTEGA\source\repos\ProyectoPEE\obj\Debug\ProyectoPEE.Properties.Resources.resources
+C:\Users\JOSSELIN C. ORTEGA\source\repos\ProyectoPEE\obj\Debug\ProyectoPEE.csproj.GenerateResource.cache
+C:\Users\JOSSELIN C. ORTEGA\source\repos\ProyectoPEE\obj\Debug\ProyectoPEE.csproj.CoreCompileInputs.cache
+C:\Users\JOSSELIN C. ORTEGA\source\repos\ProyectoPEE\obj\Debug\ProyectoPEE.exe
+C:\Users\JOSSELIN C. ORTEGA\source\repos\ProyectoPEE\obj\Debug\ProyectoPEE.pdb
+C:\Users\JOSSELIN C. ORTEGA\source\repos\ProyectoPEE\obj\Debug\ProyectoPEE.DlgProyecto.resources
